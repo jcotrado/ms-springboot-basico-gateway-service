@@ -1,4 +1,4 @@
-package com.convergenciax.moto.service;
+package com.convergenciax.gateway.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
