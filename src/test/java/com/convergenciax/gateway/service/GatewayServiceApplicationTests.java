@@ -1,4 +1,4 @@
-package com.convergenciax.moto.service;
+package com.convergenciax.gateway.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
